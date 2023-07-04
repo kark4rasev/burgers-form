@@ -1,0 +1,23 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-size: 500px;
+  background-image: url('images/burger19.jpg');
+}
+
+.form-app {
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 50px;
+}
+
+.image-decaration {
+  width: 100px;
+  height: 100px;
+  /*position: absolute;
+  bottom: -15px;
+  right: -25px;*/
+  border-radius: 50%;
+}
