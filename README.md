@@ -6,7 +6,8 @@
 
 Прект собран с использованием Java script, React, проект был загружен с помощью [Create React App]
 
-Для пользования проектом необходимо запустить его с помощью VS Code с использованием команды npm start 
+Для пользования проектом необходимо запустить его в браузере с помощью VS Code с использованием команды в терминале npm start 
+
 
 ![burger16](https://github.com/kark4rasev/burgers-form/assets/91518057/e55489d4-96b0-4f24-9d39-a23bc428dad9)
 ![burger19](https://github.com/kark4rasev/burgers-form/assets/91518057/191f9888-85ca-430d-95e8-f0180cd015a0)
