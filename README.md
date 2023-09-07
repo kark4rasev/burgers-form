@@ -19,7 +19,7 @@
 
 Прект собран с использованием Java script, React, проект был загружен с помощью [Create React App]
 
-Для пользования проектом необходимо запустить его в браузере с помощью VS Code с использованием команды в терминале npm start 
+Настройка проекта npm install, npm start 
 
 Project name:
 #burgers-form
@@ -41,7 +41,7 @@ Then we form an order
 We create a modal window informing that the order is being prepared, with information about the ordered ingredients 
 The project was built using Java script, React, the project was uploaded using [Create React App]
 
-To use the project, you need to launch it in the browser using VS Code using the command in the npm start terminal
+Project setup npm install, npm start
 
 
 ![burger16](https://github.com/kark4rasev/burgers-form/assets/91518057/e55489d4-96b0-4f24-9d39-a23bc428dad9)
